@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ilyès kerkeni",
+    "section": "",
+    "text": "Linkedin, E-mail, Phone\n\n\n\n\nHello I’m Ilyès. As an engineering student in applied mathematics at ENSTA Paris and master 2 “Probabilitées et finance (ex DEA EL KAROUI)”, I have developed a passion for quantitative finance and machine learning as applied to financial markets. With my strong analytical skills and deep understanding of mathematical modeling, I have gained valuable experience as a quantitative researcher trainee, developing rich models for autocallable products and conducting calibration to var swaps, covar swaps, vol swaps, and options. Currently, as a quant-data scientist trainee, I continue to develop my expertise in quantitative finance and machine learning, applying advanced statistical techniques to extract insights from complex financial data. With a commitment to continued learning and a passion for innovation, I am excited to make meaningful contributions to the field of quantitative finance and to help drive success for my organization."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Ilyès kerkeni",
+    "section": "",
+    "text": "Linkedin, E-mail, Phone\n\n\n\n\nHello I’m Ilyès. As an engineering student in applied mathematics at ENSTA Paris and master 2 “Probabilitées et finance (ex DEA EL KAROUI)”, I have developed a passion for quantitative finance and machine learning as applied to financial markets. With my strong analytical skills and deep understanding of mathematical modeling, I have gained valuable experience as a quantitative researcher trainee, developing rich models for autocallable products and conducting calibration to var swaps, covar swaps, vol swaps, and options. Currently, as a quant-data scientist trainee, I continue to develop my expertise in quantitative finance and machine learning, applying advanced statistical techniques to extract insights from complex financial data. With a commitment to continued learning and a passion for innovation, I am excited to make meaningful contributions to the field of quantitative finance and to help drive success for my organization."
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Ilyès kerkeni",
+    "section": "💼 Professional Experience",
+    "text": "💼 Professional Experience\n\n\nQuantitative trader (full remote)\nEruditis\n\n\nMilwaukee, USA\nJuin 2022 - Now\n\n\n\nPart Time job (Freelance)\nExploring and implementing trading strategies with ML and reinforcement learning.\nImplementing research papers.\n\n\n\nQuant-Data scientist\nCrédit Agricole CIB\n\n\nParis, France\n01 March 2023 - 31 August 2023\n\n\n\nProject for USD VOL DESK (Gobal Market Division)\nWorking side to side with the IRD exotic director trader and the head of AI GMD department to make financial market predictions and modeling\nCollecting and analyzing data from US insurers, forward rates, implied volatilities, and index values to anticipate and explain insurers’ trading activities.\nBuilding and maintaining new models, gaining 20points in performance.\n\n\n\nQuantitative Reasearcher\nHSBC Paris\n\n\nParis, France\n29 August 2022 - 28 February 2023\n\n\n\nResearch Project under the aiges of “Europlace Institut of Finance”\nWorking with both machine learning models and multivariate rough volatility models, gaining expertise in the randomized signatures (rSig) pricing model and the quadratic Gaussian (qGauss) models.\nDeveloping rich models that remain numerically tractable for the fast generation of autocallable prices and sensitivities.\n\n\n\nQuantitative Reasearcher\nENSAE Paris/CREST\n\n\nParis, France\n1 Juin 2022 - 19 August 2022\n\n\n\nExploring several approaches to estimate VaR and CoVaR using Parametric Models, Non-parametric models, Semi-parametric models\nGarch models, Monte carlo simulation, resampling, bootstrapping, python/R programming"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ilyès kerkeni",
+    "section": "🎓 Education",
+    "text": "🎓 Education\n\n\nM.S. “Probabilitées et finance ex DEA EL KAROUI”\nEcole Polytechnique - Surbonne University\n\n\nParis, France\nSeptember 2023 - 2024 3\n\n\n\nCourses: Machine Learning-Neural Networks-Deep Learning, Stochastic control and optimisation, High-frequency finance: probabilistic tools, statistical modeling, Machine learning and optimal trading etc..\n\n\n\nEnginnering degree\nEnsta Paris\n\n\nParis, France\nSeptember 2020 - 2024\n\n\n\nGPA=3.9/4\nApplied Mathematics (Statistics, Probability, Markov chains, Stochastic calculus, Optimization, Martingales, Time series, Monte-Carlo Methods, Machine learning, mathematical models in finance)."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Ilyès kerkeni",
+    "section": "🏆 Projects",
+    "text": "🏆 Projects\n\nTeam enginner project H1N1 & flu predictions The aim is to predict whether a person is vaccinated against H1N1 and seasonal flu. we used here vast majority of classification mdeols (tree based models: XGboost, Catboost, RandomForest) neural networks ect..\nPredicting rent Prices\nImage Classififcation deploying a convolutional neural networks (with C) capable of classifying images according to their categories.\nAlgorithmic Trading on Stocks (via IBKR API) and on Cryptos (via Binance API) The aim here is to build statistical arbitrage strategies on different markets, implement them in Python, and apply them to Interactives Brokers."
+  },
+  {
+    "objectID": "index.html#resume",
+    "href": "index.html#resume",
+    "title": "Ilyès kerkeni",
+    "section": "💾 Resume",
+    "text": "💾 Resume\n\nCV"
+  },
+  {
+    "objectID": "index.html#certifications",
+    "href": "index.html#certifications",
+    "title": "Ilyès kerkeni",
+    "section": "🎖️ Certifications",
+    "text": "🎖️ Certifications\n\nMathematical Methods for Quantitative Finance - MITx Courses\nDeep Learning Fundamentals with Keras - IBM\nML with python - IBM\nAI for everyone - IBM\nData Sciense: Probability\nData Science: Visualization\nBlockchain: Understanding Its Uses and Implications"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Ilyès kerkeni",
+    "section": "💻 Technical skills",
+    "text": "💻 Technical skills\n\nPython : Pandas, numpy, Sikit-Learn, Pytorch, Tensorflow, Keras\nC++, C\nMatlab\nR\nExcel, PowerPoint, LaTex\nDataiku, IBM waston studio"
+  },
+  {
+    "objectID": "index.html#hobbies",
+    "href": "index.html#hobbies",
+    "title": "Ilyès kerkeni",
+    "section": "🎳 Hobbies",
+    "text": "🎳 Hobbies\n\nReading 📚\nGYM 🏋🏻‍♀️ and Swimming 🏊🏻‍♂️ (Almost 5 days per week)\nTennis 🎾 (Rafa Nadal)\n(Ex) professional basketball player 🏀 .\nTraveler 🧳."
+  }
+]
